@@ -1,5 +1,8 @@
 # PrimeiroProjeto
 
+Git criado para estudos de Angular - curso Loiane Groner - Youtube
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.3.
 
 ## Development server
